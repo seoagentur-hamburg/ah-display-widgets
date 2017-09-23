@@ -17,7 +17,7 @@ By default, 'Hide on checked pages' is selected with no boxes checked, so all cu
 
 If you'd like to contribute, you can find a development version on ([GitHub](https://github.com/HechtMediaArts/ah-display-widgets "GitHub")).
 
-This is a fork from the original »Display Widgets« Plugin, which is safe and secure. Check the code on GitHub.
+This is a fork from the original »Display Widgets« Plugin. This code is safe and secure. Check the code on GitHub.
 
 Check out my other plugins, [AH Code Highlighter](https://wordpress.org/plugins/ah-prism-syntax-highlighter/ "AH Code Highlighter") - extreme simple to use Code Highlighting with 7 Highlighting-Themes, and [AH Twitter Timeline Widget](https://wordpress.org/plugins/evolution-twitter-timeline/ "AH Twitter Timeline Widget") to show the new and shiny Twitter Timeline from your Twitter-Account.
 
