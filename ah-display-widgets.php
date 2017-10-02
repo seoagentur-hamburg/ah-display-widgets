@@ -5,7 +5,7 @@ Plugin URI: https://andreas-hecht.com/ah-display-widgets/
 Description: Adds checkboxes to each widget to show or hide on site pages.
 Author: Andreas Hecht
 Author URI: https://andreas-hecht.com
-Version: 1.0.0
+Version: 1.0.1
 License:     GPL2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: display-widgets

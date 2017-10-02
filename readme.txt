@@ -5,7 +5,7 @@ Donate link: https://andreas-hecht.com/ah-display-widgets/
 Requires at least: 4.5
 Requires PHP: 5.6
 Tested up to: 4.8.2
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 
 Simply hide widgets on specified pages. Adds checkboxes to each widget to either show or hide it on every site page.
 
@@ -18,6 +18,23 @@ By default, 'Hide on checked pages' is selected with no boxes checked, so all cu
 If you'd like to contribute, you can find a development version on ([GitHub](https://github.com/HechtMediaArts/ah-display-widgets "GitHub")).
 
 Check out my other plugins, [AH Code Highlighter](https://wordpress.org/plugins/ah-prism-syntax-highlighter/ "AH Code Highlighter") - extreme simple to use Code Highlighting with 7 Highlighting-Themes, and [AH Twitter Timeline Widget](https://wordpress.org/plugins/evolution-twitter-timeline/ "AH Twitter Timeline Widget") to show the new and shiny Twitter Timeline from your Twitter-Account.
+
+= Translations =
+
+* Arabic
+* Danish
+* German
+* Spanish
+* Finnish
+* Italian
+* Japanese
+* Dutch
+* Polish
+* Romanian
+* Russian
+* Albanian
+* Swedish
+* Chinese
 
 == Installation ==
 
@@ -39,10 +56,16 @@ None at this time.
 
 == Upgrade Notice ==
 
+= 1.0.1 =
+* Adding translations
+
 = 1.0.0 =
 * Stable Version
 
 == Changelog ==
+
+= 1.0.1 =
+* Adding translations
 
 = 1.0.0 =
 * First release - stable version
