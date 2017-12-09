@@ -1,11 +1,11 @@
 === AH Display Widgets ===
 Contributors: ahecht, sswells
-Tags: widget, widgets, admin, show, hide, page, sidebar, content, wpmu, plugin, post, posts, content, filter, widget logic, widget context
+Tags: widget, widgets, display widgets, show, hide, page, sidebar, content, wpmu, plugin, post, posts, content, filter, widget logic, widget context
 Donate link: https://andreas-hecht.com/ah-display-widgets/
 Requires at least: 4.5
 Requires PHP: 5.6
-Tested up to: 4.8.2
-Stable tag: 1.0.1
+Tested up to: 4.9.1
+Stable tag: 1.0.2
 
 Simply hide widgets on specified pages. Adds checkboxes to each widget to either show or hide it on every site page.
 
@@ -58,6 +58,9 @@ None at this time.
 
 == Upgrade Notice ==
 
+= 1.0.2 =
+* Fixing category bug
+
 = 1.0.1 =
 * Adding translations
 
@@ -65,6 +68,9 @@ None at this time.
 * Stable Version
 
 == Changelog ==
+
+= 1.0.2 =
+* Fixing category bug
 
 = 1.0.1 =
 * Adding translations
